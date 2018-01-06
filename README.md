@@ -1,1 +1,1 @@
-# Myoutube-subscirber-wp-plugin
+# Myoutube Subscriber WP-plugin
